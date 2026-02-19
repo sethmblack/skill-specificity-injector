@@ -3,7 +3,7 @@ name: specificity-injector
 description: Replace vague, generic statements with hyper-specific, concrete details that ground observations in reality and make them funnier and more relatable.
 license: MIT
 metadata:
-  version: 1.0.5026
+  version: 1.0.5027
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
